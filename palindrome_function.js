@@ -1,4 +1,3 @@
-
 /**
  *  A function tsahat determines is a string
  * is a palindrome. "racecar" use lowerCase letters
